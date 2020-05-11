@@ -1,203 +1,639 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Religious",ADiTV (Yogyakarta)
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="Entertainment",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Local",AREK TV SURABAYA
-http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu English
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040362.png" group-title="News",BeritaSatu WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="Local",Cahaya TV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",CLUBING TV
-https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Business",CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Business",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Business",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Business",CNBC Indonesia 1
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="CNIH" tvg-name="CNN Indonesia HD" tvg-language="Indonesian" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="News",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://127.0.0.1/" group-title="Music",DANGDUT CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",Dangdutz
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Kids",Disney Junior Asia
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92705/14042900.jpg" group-title="Kids",Disney Junior Asia
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Kids",DISNEY JUNIOR Indo SD
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",FAIL ARMY
-https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="",GTV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="",GTV 2
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",Hi! Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040378.png" group-title="",HIDUP TV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="",Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lifestyle",Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" group-title="",I AM CHANNEL
-http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",ID KU
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",IdKU
-https://dl.dropbox.com/s/zv2m4oiaye3rkzn/idku2.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040365.jpg" group-title="",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png" group-title="",InsanTV
-http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/1Yr9nMG.png" group-title="Movies",J'go
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",Jawapos TV
-https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",JAWAPOS TV
-https://livetvhooq.akamaized.net:443/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",JTV Surabaya
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://mncchannels.com/files/logo/1440755188_logo_mnc-karaoke.png" group-title="Music",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://127.0.0.1/" group-title="Music",KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",KOMPAS TV 2
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",METRO TV
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040416.png" group-title="News",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" group-title="News",METROTV HD 1
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="",MI TV
-http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Mix TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="",MNC TV
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Music",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",MY TV
-https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",MYTV
-https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="",NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",NIFTY
-https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Local",Padang TV
-https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO51" tvg-language="Indonesian" tvg-logo="Logo N/A" group-title="",Radio 51 TV
-http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP" tvg-language="Indonesian" tvg-logo="Logo N/A" group-title="",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040382.png" group-title="",RAI PREMIUM
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040383.png" group-title="",RAI YOYO
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",RCTI
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Entertainment",RCTI 2
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Religious",Reformed 21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="",RRI Net
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",RTV 2
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",RUANG TERAMPIL
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="",Ruang Terampil
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",Ruang Trampil
-https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="",RUMAH TV
-http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/i3EI1vB.png" group-title="",Rumah TV
-https://video2.onlivestreaming.net/rumahtv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040369.jpg" group-title="",TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",Tahfizh TV
-http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040386.jpg" group-title="",TEGAR TV
-http://wms.klikhost.com/tegartv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040331.jpg" group-title="",THE INDONESIA CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040387.jpg" group-title="",THE INDONESIAN CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",TRANS 7
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Entertainment",TRANS 7 2
-https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" group-title="",TRANS 7 HD
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",TRANS TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Entertainment",TRANS TV 2
-https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="",TRANS TV HD
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040405.png" group-title="",TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040388.png" group-title="",TV9 NSPORTANTARA
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040371.jpg" group-title="",TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040389.jpg" group-title="",TVR PARLEMEN
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Local",TVRI DKI Jakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Local",TVRI Jawa Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" group-title="Local",TVRI Jawa Tengah
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" group-title="Local",TVRI Jawa Timur
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="General",TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" group-title="Local",TVRI Yogyakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",USEE PHOTO
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",USEE PRIME
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Nasional"
+    },
+    {
+      "id": 1,
+      "name": "Berita"
+    },
+    {
+      "id": 2,
+      "name": "Hiburan"
+    },
+    {
+      "id": 3,
+      "name": "Animasi"
+    },
+    {
+      "id": 4,
+      "name": "Edukasi"
+    },
+    {
+      "id": 5,
+      "name": "Religi"
+    },
+    {
+      "id": 6,
+      "name": "Olahraga"
+    }
+  ],
+  "channels": [
+    {
+      "cid": 6,
+      "name": "Action Sports 4U",
+      "stream_url": "https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Adventure Sports Network",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Ahsan TV",
+      "stream_url": "http://119.82.224.75:1935/live/ahsantv/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Al Bahjah",
+      "stream_url": "https://edge.siar.us/albahjahtv/live/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Al Jazeera English",
+      "stream_url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Animal Planet",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass"
+    },
+    {
+      "cid": 3,
+      "name": "Animax Asia",
+      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Aniplus Asia",
+      "stream_url": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "ANTV",
+      "stream_url": "http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com"
+    },
+    {
+      "cid": 2,
+      "name": "Arirang",
+      "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Awani",
+      "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "AXN",
+      "stream_url": "http://210.210.155.66/h/h141/02.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Baby First",
+      "stream_url": "http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "BeritaSatu",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Biznet Adventure",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
+    },
+    {
+      "cid": 2,
+      "name": "Biznet Kids",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
+    },
+    {
+      "cid": 2,
+      "name": "Biznet Lifestyle",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
+    },
+    {
+      "cid": 2,
+      "name": "Blue Ant Extreme",
+      "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Boing TV",
+      "stream_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Boomerang",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Cartoon Network",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Celestial Movies",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Channel NewsAsia",
+      "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Cinema World",
+      "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Cinemax",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass"
+    },
+    {
+      "cid": 1,
+      "name": "CNBC Indonesia",
+      "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "CNN Indonesia",
+      "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Discovery Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass"
+    },
+    {
+      "cid": 3,
+      "name": "Disney Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass"
+    },
+    {
+      "cid": 3,
+      "name": "Disney Junior Asia",
+      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "DSport",
+      "stream_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Duck TV",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Elshinta TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "English Club",
+      "stream_url": "http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fashion TV",
+      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist==.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fashion TV Midnight",
+      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist==.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Food Food",
+      "stream_url": "https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Food Network",
+      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fox",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Family",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Movies",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
+    },
+    {
+      "cid": 6,
+      "name": "Fox Sports",
+      "stream_url": "http://13.250.204.68/session/usee_tv/dakocan-premium/fs1.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Fox Sports News",
+      "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "GTV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "HBO",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "HBO Family",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Hi Indo!",
+      "stream_url": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Hidup TV",
+      "stream_url": "http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Hits",
+      "stream_url": "http://210.210.155.35/session/a06e88b2-0598-11e9-a62b-b82a72d63267/uq2663/h/h37/01.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Home & Living",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "I AM CHANNEL",
+      "stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Indosiar",
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s04/01.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "iNews TV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Insan TV",
+      "stream_url": "http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Jakarta Globe",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Jogja TV",
+      "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "JTV",
+      "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Karaoke Channel",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "KIX",
+      "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Kompas TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s104/01.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Larva TV",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
+    },
+    {
+      "cid": 5,
+      "name": "Madinah TV",
+      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Makkah TV",
+      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Metro TV",
+      "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Miao Mi",
+      "stream_url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "MNC TV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "MNX Movies",
+      "stream_url": "https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Movie Kingdom",
+      "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Movies Now",
+      "stream_url": "https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "MTV",
+      "stream_url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Music Now",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Music Top",
+      "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "My Cinema",
+      "stream_url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "My Kids",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Nabawi TV",
+      "stream_url": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Nat Geo Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Nat Geo People",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Nat Geo Wild",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "NET. TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "NHK World",
+      "stream_url": "http://210.210.155.66/h/h23/02.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Olympic Channel",
+      "stream_url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Prambors",
+      "stream_url": "https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
+    },
+    {
+      "cid": 6,
+      "name": "Racing.com",
+      "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Rai Movie",
+      "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "RCTI",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Real Madrid TV",
+      "stream_url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Redbull TV",
+      "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Reformed 21",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Rodja TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Romedy Now",
+      "stream_url": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "RRI Net",
+      "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "RTM Sports",
+      "stream_url": "https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "SCTV",
+      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Sinema Indonesia",
+      "stream_url": "http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Sony One",
+      "stream_url": "http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Sony Ten 1",
+      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Sony Ten 2",
+      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Sony Ten 3",
+      "stream_url": "https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Spacetoon",
+      "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Star Movies",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Star World",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Tahfidz TV",
+      "stream_url": "http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "TATV",
+      "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Tegar TV",
+      "stream_url": "http://wms.klikhost.com/tegartv/live/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Thrill",
+      "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Tom Jerry TV",
+      "stream_url": "https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv"
+    },
+    {
+      "cid": 3,
+      "name": "Toonmax",
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Trans 7",
+      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Trans TV",
+      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "TV Ikim",
+      "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TV One",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVR PARLEMEN",
+      "stream_url": "http://103.16.220.69:1935/golive/livestream/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI",
+      "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI DKI Jakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Barat",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Tengah",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Timur",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Nasional",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "TVRI Sport",
+      "stream_url": "http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Yogyakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Zee Bioskop",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
+    }
+  ]
+}
