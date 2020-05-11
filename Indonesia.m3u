@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Entertainment",GTV
+https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Entertainment",TRANS 7
+https://r2---sn-uigxxi0ujipnvo-2qbe.googlevideo.com/videoplayback?expire=1589229421&ei=DWO5XsfyF5PM4-EP8Ji98Ak&ip=223.255.227.11&id=JKQzLbfh7SM.28&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160&sou
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-RWQxsexP76c/XrloJRCjNaI/AAAAAAAAAwI/qVRFTWpsjF8CQ3BOryVFl3zUjSHv5IJYwCLcBGAsYHQ/s1600/index.png" group-title="Local",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-MMxw2DorzVg/XrlpEDkYBsI/AAAAAAAAAwY/DFALf_2VwfA-KEjmgARtewTF_RDx7DPugCLcBGAsYHQ/s1600/rcti.jpg" group-title="Local",RCTI
+https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-V2IPCTVAG-U/Xrlph15iIFI/AAAAAAAAAwg/_eAiLeuoTqEOkCnf0y4aEIGInBIn-D0zwCLcBGAsYHQ/s1600/mnctv.jpg" group-title="Local",MNCTV
+https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-oUupr5bWMfQ/Xrlp2ln3CwI/AAAAAAAAAwk/hkCba8fehywr8NZNOOuoVr2M4erEnwhQgCLcBGAsYHQ/s1600/sctv.jpg.webp" group-title="Local",SCTV
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
