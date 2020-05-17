@@ -18,14 +18,14 @@ Also you can instead use one of these playlists:
 
 Or select one of the playlists from the list below.
 
-## Playlists by category
+## Playlists by National
 
 <table>
 	<thead>
 		<tr><th align="left">National</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">AUTO</td><td align="right">2</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
+		<tr><td align="left">AUTO</td><td align="right">1</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/tv.m3u</code></td></tr>
 		
 </tbody>
 </table>
