@@ -22,6 +22,18 @@ Or select one of the playlists from the list below.
 
 <table>
 	<thead>
+		<tr><th align="left">National</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">AUTO</td><td align="right">2</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
+		
+</tbody>
+</table>
+
+## Playlists by category
+
+<table>
+	<thead>
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
