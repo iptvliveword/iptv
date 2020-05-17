@@ -12,25 +12,11 @@ To watch IPTV you just need to paste this link `https://iptv-org.github.io/iptv/
 
 Also you can instead use one of these playlists:
 
-
-- `https://iptv-org.github.io/iptv/index.country.m3u` (grouped by National)
 - `https://iptv-org.github.io/iptv/index.country.m3u` (grouped by country)
 - `https://iptv-org.github.io/iptv/index.category.m3u` (grouped by category)
 - `https://iptv-org.github.io/iptv/index.language.m3u` (grouped by language)
 
 Or select one of the playlists from the list below.
-
-## Playlists by National
-
-<table>
-	<thead>
-		<tr><th align="left">National</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
-	</thead>
-	<tbody>
-		<tr><td align="left">AUTO</td><td align="right">1</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/tv.m3u</code></td></tr>
-		
-</tbody>
-</table>
 
 ## Playlists by category
 
