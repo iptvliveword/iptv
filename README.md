@@ -22,7 +22,7 @@ Or select one of the playlists from the list below.
 
 <table>
 	<thead>
-		<tr><th align="left">test</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
+		<tr><th align="left">category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
                 #EXTM3U
