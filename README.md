@@ -28,6 +28,7 @@ Or select one of the playlists from the list below.
                 <tr><td align="left">AXNHD</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/Axnhd.m3u</code></td></tr>
                 <tr><td align="left">ANIMAX</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/Animax.m3u</code></td></tr>
 		<tr><td align="left">ANIPLUS</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/aniplus.m3u</code></td></tr>
+                <tr><td align="left">FOXMOVIESFHD</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/Foxmovies.m3u</code></td></tr>
                 <tr><td align="left">TRANS7</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/TRANS7.M3U</code></td></tr>
 		<tr><td align="left">Inews</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/inews.m3u</code></td></tr>
 		<tr><td align="left">TRANSTV</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/transtv.m3u</code></td></tr>
