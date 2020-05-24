@@ -25,7 +25,9 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		 <tr><td align="left">Kids</td><td align="right">99</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
+		<tr><td align="left">TRANS7</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/TRANS7.M3U</code></td></tr>
+		<tr><td align="left">TRANSTV</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/transtv.m3u</code></td></tr>
+		<tr><td align="left">Kids</td><td align="right">99</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
 		<tr><td align="left">RCTI</td><td align="right">5</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/rcti.m3u</code></td></tr>
 		<tr><td align="left">XXX</td><td align="right">45</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/xxx.m3u</code></td></tr>
 		<tr><td align="left">Other</td><td align="right">3653</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/other.m3u</code></td></tr>
