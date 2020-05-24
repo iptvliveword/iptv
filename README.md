@@ -25,9 +25,10 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">TRANS7</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/TRANS7.M3U</code></td></tr>
-		<tr><td align="left">Inews</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/inews.m3u</code></td></tr>
+                <tr><td align="left">ANIMAX</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/Animax.m3u</code></td></tr>
 		<tr><td align="left">ANIPLUS</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/aniplus.m3u</code></td></tr>
+                <tr><td align="left">TRANS7</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/TRANS7.M3U</code></td></tr>
+		<tr><td align="left">Inews</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/inews.m3u</code></td></tr>
 		<tr><td align="left">TRANSTV</td><td align="right">99</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/transtv.m3u</code></td></tr>
 		<tr><td align="left">Kids</td><td align="right">99</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/kids.m3u</code></td></tr>
 		<tr><td align="left">RCTI</td><td align="right">5</td><td align="left"><code>https://iptvliveword.github.io/iptv-indonesia/daftar%20putar/rcti.m3u</code></td></tr>
