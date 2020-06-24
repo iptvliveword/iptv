@@ -1,337 +1,835 @@
-#EXTM3U 
-#EXTINF:-1,Afghanistan
-channels/af.m3u
-#EXTINF:-1,Albania
-channels/al.m3u
-#EXTINF:-1,Algeria
-channels/dz.m3u
-#EXTINF:-1,Andorra
-channels/ad.m3u
-#EXTINF:-1,Angola
-channels/ao.m3u
-#EXTINF:-1,Argentina
-channels/ar.m3u
-#EXTINF:-1,Armenia
-channels/am.m3u
-#EXTINF:-1,Aruba
-channels/aw.m3u
-#EXTINF:-1,Australia
-channels/au.m3u
-#EXTINF:-1,Austria
-channels/at.m3u
-#EXTINF:-1,Azerbaijan
-channels/az.m3u
-#EXTINF:-1,Bahamas
-channels/bs.m3u
-#EXTINF:-1,Bahrain
-channels/bh.m3u
-#EXTINF:-1,Bangladesh
-channels/bd.m3u
-#EXTINF:-1,Barbados
-channels/bb.m3u
-#EXTINF:-1,Belarus
-channels/by.m3u
-#EXTINF:-1,Belgium
-channels/be.m3u
-#EXTINF:-1,Bolivia
-channels/bo.m3u
-#EXTINF:-1,Bosnia and Herzegovina
-channels/ba.m3u
-#EXTINF:-1,Brazil
-channels/br.m3u
-#EXTINF:-1,Brunei
-channels/bn.m3u
-#EXTINF:-1,Bulgaria
-channels/bg.m3u
-#EXTINF:-1,Burkina Faso
-channels/bf.m3u
-#EXTINF:-1,Cambodia
-channels/kh.m3u
-#EXTINF:-1,Cameroon
-channels/cm.m3u
-#EXTINF:-1,Canada
-channels/ca.m3u
-#EXTINF:-1,Cape Verde
-channels/cv.m3u
-#EXTINF:-1,Chile
-channels/cl.m3u
-#EXTINF:-1,China
-channels/cn.m3u
-#EXTINF:-1,Colombia
-channels/co.m3u
-#EXTINF:-1,Costa Rica
-channels/cr.m3u
-#EXTINF:-1,Croatia
-channels/hr.m3u
-#EXTINF:-1,Cuba
-channels/cu.m3u
-#EXTINF:-1,Curaçao
-channels/cw.m3u
-#EXTINF:-1,Cyprus
-channels/cy.m3u
-#EXTINF:-1,Czech Republic
-channels/cz.m3u
-#EXTINF:-1,Democratic Republic of the Congo
-channels/cd.m3u
-#EXTINF:-1,Denmark
-channels/dk.m3u
-#EXTINF:-1,Dominican Republic
-channels/do.m3u
-#EXTINF:-1,Ecuador
-channels/ec.m3u
-#EXTINF:-1,Egypt
-channels/eg.m3u
-#EXTINF:-1,El Salvador
-channels/sv.m3u
-#EXTINF:-1,Equatorial Guinea
-channels/gq.m3u
-#EXTINF:-1,Estonia
-channels/ee.m3u
-#EXTINF:-1,Ethiopia
-channels/et.m3u
-#EXTINF:-1,Faroe Islands
-channels/fo.m3u
-#EXTINF:-1,Finland
-channels/fi.m3u
-#EXTINF:-1,Fiji
-channels/fj.m3u
-#EXTINF:-1,France
-channels/fr.m3u
-#EXTINF:-1,Gambia
-channels/gm.m3u
-#EXTINF:-1,Georgia
-channels/ge.m3u
-#EXTINF:-1,Germany
-channels/de.m3u
-#EXTINF:-1,Ghana
-channels/gh.m3u
-#EXTINF:-1,Gibraltar
-channels/gi.m3u
-#EXTINF:-1,Greece
-channels/gr.m3u
-#EXTINF:-1,Grenada
-channels/gd.m3u
-#EXTINF:-1,Guadeloupe
-channels/gp.m3u
-#EXTINF:-1,Guam
-channels/gu.m3u
-#EXTINF:-1,Guatemala
-channels/gt.m3u
-#EXTINF:-1,Guyana
-channels/gy.m3u
-#EXTINF:-1,Haiti
-channels/ht.m3u
-#EXTINF:-1,Honduras
-channels/hn.m3u
-#EXTINF:-1,Hong Kong
-channels/hk.m3u
-#EXTINF:-1,Hungary
-channels/hu.m3u
-#EXTINF:-1,Iceland
-channels/is.m3u
-#EXTINF:-1,India
-channels/in.m3u
-#EXTINF:-1,Indonesia
-channels/id.m3u
-#EXTINF:-1,International
-channels/int.m3u
-#EXTINF:-1,Iran
-channels/ir.m3u
-#EXTINF:-1,Iraq
-channels/iq.m3u
-#EXTINF:-1,Ireland
-channels/ie.m3u
-#EXTINF:-1,Israel
-channels/il.m3u
-#EXTINF:-1,Italy
-channels/it.m3u
-#EXTINF:-1,Ivory Coast
-channels/ci.m3u
-#EXTINF:-1,Jamaica
-channels/jm.m3u
-#EXTINF:-1,Japan
-channels/jp.m3u
-#EXTINF:-1,Jordan
-channels/jo.m3u
-#EXTINF:-1,Kazakhstan
-channels/kz.m3u
-#EXTINF:-1,Kenya
-channels/ke.m3u
-#EXTINF:-1,Kosovo
-channels/xk.m3u
-#EXTINF:-1,Kuwait
-channels/kw.m3u
-#EXTINF:-1,Kyrgyzstan
-channels/kg.m3u
-#EXTINF:-1,Laos
-channels/la.m3u
-#EXTINF:-1,Latvia
-channels/lv.m3u
-#EXTINF:-1,Lebanon
-channels/lb.m3u
-#EXTINF:-1,Libya
-channels/ly.m3u
-#EXTINF:-1,Liechtenstein
-channels/li.m3u
-#EXTINF:-1,Lithuania
-channels/lt.m3u
-#EXTINF:-1,Luxembourg
-channels/lu.m3u
-#EXTINF:-1,Macau
-channels/mo.m3u
-#EXTINF:-1,Madagascar
-channels/mg.m3u
-#EXTINF:-1,Malaysia
-channels/my.m3u
-#EXTINF:-1,Maldives
-channels/mv.m3u
-#EXTINF:-1,Malta
-channels/mt.m3u
-#EXTINF:-1,Mexico
-channels/mx.m3u
-#EXTINF:-1,Moldova
-channels/md.m3u
-#EXTINF:-1,Monaco
-channels/mc.m3u
-#EXTINF:-1,Mongolia
-channels/mn.m3u
-#EXTINF:-1,Montenegro
-channels/me.m3u
-#EXTINF:-1,Morocco
-channels/ma.m3u
-#EXTINF:-1,Mozambique
-channels/mz.m3u
-#EXTINF:-1,Myanmar
-channels/mm.m3u
-#EXTINF:-1,Nepal
-channels/np.m3u
-#EXTINF:-1,Netherlands
-channels/nl.m3u
-#EXTINF:-1,New Zealand
-channels/nz.m3u
-#EXTINF:-1,Nicaragua
-channels/ni.m3u
-#EXTINF:-1,Niger
-channels/ne.m3u
-#EXTINF:-1,Nigeria
-channels/ng.m3u
-#EXTINF:-1,North Korea
-channels/kp.m3u
-#EXTINF:-1,North Macedonia
-channels/mk.m3u
-#EXTINF:-1,Norway
-channels/no.m3u
-#EXTINF:-1,Oman
-channels/om.m3u
-#EXTINF:-1,Pakistan
-channels/pk.m3u
-#EXTINF:-1,Palestine
-channels/ps.m3u
-#EXTINF:-1,Panama
-channels/pa.m3u
-#EXTINF:-1,Paraguay
-channels/py.m3u
-#EXTINF:-1,Peru
-channels/pe.m3u
-#EXTINF:-1,Philippines
-channels/ph.m3u
-#EXTINF:-1,Poland
-channels/pl.m3u
-#EXTINF:-1,Portugal
-channels/pt.m3u
-#EXTINF:-1,Puerto Rico
-channels/pr.m3u
-#EXTINF:-1,Qatar
-channels/qa.m3u
-#EXTINF:-1,Republic of the Congo
-channels/cg.m3u
-#EXTINF:-1,Romania
-channels/ro.m3u
-#EXTINF:-1,Russia
-channels/ru.m3u
-#EXTINF:-1,Rwanda
-channels/rw.m3u
-#EXTINF:-1,Saint Kitts and Nevis
-channels/kn.m3u
-#EXTINF:-1,San Marino
-channels/sm.m3u
-#EXTINF:-1,Saudi Arabia
-channels/sa.m3u
-#EXTINF:-1,Senegal
-channels/sn.m3u
-#EXTINF:-1,Serbia
-channels/rs.m3u
-#EXTINF:-1,Sierra Leone
-channels/sl.m3u
-#EXTINF:-1,Singapore
-channels/sg.m3u
-#EXTINF:-1,Sint Maarten
-channels/sx.m3u
-#EXTINF:-1,Slovakia
-channels/sk.m3u
-#EXTINF:-1,Slovenia
-channels/si.m3u
-#EXTINF:-1,Somalia
-channels/so.m3u
-#EXTINF:-1,South Africa
-channels/za.m3u
-#EXTINF:-1,South Korea
-channels/kr.m3u
-#EXTINF:-1,Spain
-channels/es.m3u
-#EXTINF:-1,Sri Lanka
-channels/lk.m3u
-#EXTINF:-1,Sudan
-channels/sd.m3u
-#EXTINF:-1,Suriname
-channels/sr.m3u
-#EXTINF:-1,Sweden
-channels/se.m3u
-#EXTINF:-1,Switzerland
-channels/ch.m3u
-#EXTINF:-1,Syria
-channels/sy.m3u
-#EXTINF:-1,Taiwan
-channels/tw.m3u
-#EXTINF:-1,Tajikistan
-channels/tj.m3u
-#EXTINF:-1,Tanzania
-channels/tz.m3u
-#EXTINF:-1,Thailand
-channels/th.m3u
-#EXTINF:-1,Togo
-channels/tg.m3u
-#EXTINF:-1,Trinidad and Tobago
-channels/tt.m3u
-#EXTINF:-1,Tunisia
-channels/tn.m3u
-#EXTINF:-1,Turkey
-channels/tr.m3u
-#EXTINF:-1,Turkmenistan
-channels/tm.m3u
-#EXTINF:-1,Uganda
-channels/ug.m3u
-#EXTINF:-1,Ukraine
-channels/ua.m3u
-#EXTINF:-1,United Arab Emirates
-channels/ae.m3u
-#EXTINF:-1,United Kingdom
-channels/uk.m3u
-#EXTINF:-1,United States
-channels/us.m3u
-#EXTINF:-1,Uruguay
-channels/uy.m3u
-#EXTINF:-1,Uzbekistan
-channels/uz.m3u
-#EXTINF:-1,Venezuela
-channels/ve.m3u
-#EXTINF:-1,Vietnam
-channels/vn.m3u
-#EXTINF:-1,Virgin Islands of the United States
-channels/vi.m3u
-#EXTINF:-1,Western Sahara
-channels/eh.m3u
-#EXTINF:-1,Yemen
-channels/ye.m3u
-#EXTINF:-1,Zimbabwe
-channels/zw.m3u
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Nasional"
+    },
+    {
+      "id": 1,
+      "name": "Berita"
+    },
+    {
+      "id": 2,
+      "name": "Hiburan"
+    },
+    {
+      "id": 3,
+      "name": "Musik"
+    },
+    {
+      "id": 4,
+      "name": "Anak"
+    },
+    {
+      "id": 5,
+      "name": "Edukasi"
+    },
+    {
+      "id": 6,
+      "name": "Religi"
+    },
+{
+      "id": 7,
+      "name": "Olahraga"
+    },
+    {
+      "id": 8,
+      "name": "Movies"
+    }
+  ],
+  "channels": [
+    {
+      "cid": 7,
+      "name": "Action Sports 4U",
+      "stream_url": "https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Adventure Sports Network",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Warner TV ID HD",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "AFV Family",
+      "stream_url": "http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Ahsan TV",
+      "stream_url": "http://119.82.224.75:1935/live/ahsantv/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Al Bahjah",
+      "stream_url": "https://edge.siar.us/albahjahtv/live/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Al Jazeera English",
+      "stream_url": "https://gounlimited.to/embed-789hg5jzu1uv.html"
+    },
+    {
+      "cid": 5,
+      "name": "Animal Planet",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Animax Asia",
+      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Aniplus Asia",
+      "stream_url": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "ANTV",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Arirang",
+      "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "AutoMoto TV",
+      "stream_url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Awani",
+      "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "AXN",
+      "stream_url": "http://210.210.155.66/h/h141/02.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "NICKELODEON ASIA",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
+    },
+    {
+      "cid": 1,
+      "name": "BBC World News",
+      "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "BeritaSatu",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Biznet Adventure",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
+    },
+    {
+      "cid": 4,
+      "name": "Biznet Kids",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
+    },
+    {
+      "cid": 2,
+      "name": "Biznet Lifestyle",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
+    },
+    {
+      "cid": 2,
+      "name": "Blue Ant Extreme",
+      "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Boing TV",
+      "stream_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Boomerang",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Box Hits",
+      "stream_url": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f"
+    },
+    {
+      "cid": 4,
+      "name": "Cartoon Network",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Celestial Movies",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Channel NewsAsia",
+      "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Cinema World",
+      "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Cinemax",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass"
+    },
+    {
+      "cid": 1,
+      "name": "CNBC Indonesia",
+      "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "CNN Indonesia",
+      "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Deluxe Music",
+      "stream_url": "http://188.35.9.5:10007/stolen/200b/parasite.install"
+    },
+    {
+      "cid": 5,
+      "name": "Discovery Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Disney Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Disney Junior Asia",
+      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Hits",
+      "stream_url": "https://www.djing.com/tv/hits.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Karaoke",
+      "stream_url": "https://www.djing.com/tv/karaoke.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Live",
+      "stream_url": "https://www.djing.com/tv/live.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Summer Vibes",
+      "stream_url": "https://www.djing.com/tv/session_summer-vibes.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "DocuBox",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Drakor Plus",
+      "stream_url": "https://stream.suryaiptv.net/streams/132_.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "DSport",
+      "stream_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Duck TV",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8"
+    },
+
+{
+      "cid": 2,
+      "name": "DreamWork",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1016025798_b894100_sleng_21729.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Elshinta TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "English Club",
+      "stream_url": "http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "FailArmy",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fashion TV",
+      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist==.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fashion TV Midnight",
+      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist==.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Food Food",
+      "stream_url": "https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Food Network",
+      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fox",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Family",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Life",
+      "stream_url": "https://stream.suryaiptv.net/streams/109_.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Movies",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports",
+      "stream_url": "http://13.250.204.68/session/usee_tv/dakocan-premium/fs1.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports News",
+      "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "FTV",
+      "stream_url": "https://stream.suryaiptv.net/streams/134_.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Gone Fishing",
+      "stream_url": "https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Gone Hunting",
+      "stream_url": "https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "GTV",
+      "stream_url": "http://iptv.burhansyam.com/globaltvhd.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "HBO",
+      "stream_url": "https://iptv.burhansyam.com/hbo/index.php"
+    },
+    {
+      "cid": 2,
+      "name": "HBO Family",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Hi Indo!",
+      "stream_url": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Hidup TV",
+      "stream_url": "http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "History 2",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Hits",
+      "stream_url": "http://210.210.155.35/session/a06e88b2-0598-11e9-a62b-b82a72d63267/uq2663/h/h37/01.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Home & Living",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "I AM CHANNEL",
+      "stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Indosiar",
+      "stream_url": "http://iptv.burhansyam.com/indosiar.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "iNews TV",
+      "stream_url": "http://iptv.burhansyam.com/inews.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Insan TV",
+      "stream_url": "http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Jakarta Globe",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Jogja TV",
+      "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "JTV",
+      "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Karaoke Channel",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "K-Drama",
+      "stream_url": "https://stream.suryaiptv.net/streams/40_.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "KIX",
+      "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8"
+    },
+    {
+      "cid": 8,
+      "name": "KILLER KT",
+      "stream_url": "http://ok2.se:8000/movie/Mackenzie/Mackenzie/62239.m3u8"
+    },
+    
+    {
+      "cid": 1,
+      "name": "Kompas TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s104/01.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Larva TV",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
+    },
+    {
+      "cid": 2,
+      "name": "M Cine",
+      "stream_url": "https://stream.suryaiptv.net/streams/135_.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Madinah TV",
+      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Makkah TV",
+      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Metro TV",
+      "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Miao Mi",
+      "stream_url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "MNC TV",
+      "stream_url": "http://iptv.burhansyam.com/mnctv.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "MNX Movies",
+      "stream_url": "https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Movie Kingdom",
+      "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Movies Now",
+      "stream_url": "https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8"
+    },
+{
+      "cid": 8,
+      "name": "Monsters Inc",
+      "stream_url": "http://ok2.se:8000/movie/Mackenzie/Mackenzie/20231.m3u8"
+    },
+
+    {
+      "cid": 3,
+      "name": "MTV",
+      "stream_url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Music Now",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Music Top",
+      "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "My Cinema",
+      "stream_url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "My Kids",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Nabawi TV",
+      "stream_url": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "NASA TV",
+      "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+    },
+    {
+      "cid": 5,
+      "name": "Nat Geo Channel",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w1310751590_b1344100_sleng_520857.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Nat Geo People",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w403933494_b1344100_sleng_520855.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Nat Geo Wild",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1470091903_b1344100_sleng_520857.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "NET. TV",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/net/chunklist_w370187092_b1344100_sleng_177560.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "NHK World",
+      "stream_url": "http://210.210.155.66/h/h23/02.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Olympic Channel",
+      "stream_url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Planet Music",
+      "stream_url": "https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "Popular Science",
+      "stream_url": "http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Prambors",
+      "stream_url": "https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
+    },
+    {
+      "cid": 7,
+      "name": "Racing.com",
+      "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Rai Movie",
+      "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "RCTI",
+      "stream_url": "http://iptv.burhansyam.com/rcti.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Real Madrid TV",
+      "stream_url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Redbull TV",
+      "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Reformed 21",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Rodja TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Romedy Now",
+      "stream_url": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "RRI Net",
+      "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "RTM Sports",
+      "stream_url": "https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "SCTV",
+      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Sinema Indonesia",
+      "stream_url": "http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Sinema X",
+      "stream_url": "https://stream.suryaiptv.net/streams/114_.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Sony One",
+      "stream_url": "http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Sony Ten 1",
+      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Sony Ten 2",
+      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Sony Ten 3",
+      "stream_url": "https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Spacetoon",
+      "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Star Movies",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Star World",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Street Music",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Tahfidz TV",
+      "stream_url": "http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "TATV",
+      "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Tegar TV",
+      "stream_url": "http://wms.klikhost.com/tegartv/live/playlist.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Tennis Channel",
+      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Tennis Channel Plus",
+      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "The Pet Collective",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Thrill",
+      "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Tom Jerry TV",
+      "stream_url": "https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv"
+    },
+    {
+      "cid": 4,
+      "name": "Toonmax",
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Trace Urban",
+      "stream_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Trans 7",
+      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "Trans TV",
+      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "TV Ikim",
+      "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "TV One",
+      "stream_url": "https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1407325584_b894100_sleng_519110.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVR PARLEMEN",
+      "stream_url": "http://103.16.220.69:1935/golive/livestream/playlist.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI",
+      "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI DKI Jakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Barat",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Tengah",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Jawa Timur",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Nasional",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "TVRI Sport",
+      "stream_url": "http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "TVRI Yogyakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Urban Music",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "USA Network",
+      "stream_url": "http://cdnak8.cast4u.info/channels/4/10804.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "VH1",
+      "stream_url": "http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697"
+    },
+    {
+      "cid": 1,
+      "name": "Voice of America",
+      "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "World Fashion TV",
+      "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Zee Bioskop",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
+    }
+  ]
+}
